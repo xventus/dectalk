@@ -32,7 +32,9 @@ The message length is limited to 248 characters.
 # Documentation 
 
 S1V30120 module:  https://www.mikroe.com/text-to-speech-click.
+
 S1V30120 initialization data: https://global.epson.com/products_and_drivers/semicon/products/speech/voice/sla/s1v30120_init_data.html
+
 S1V30120 protocol: https://global.epson.com/products_and_drivers/semicon/pdf/id001875.pdf
 
 # Screens
